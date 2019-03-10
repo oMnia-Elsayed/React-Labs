@@ -22,7 +22,26 @@
 .App-link {
   color: #61dafb;
 }
-
+.card{
+  width: 15rem;
+  margin: 1rem;
+  padding: 1rem;
+}
+.card-img-top
+{
+  height: 20rem;
+}
+.search
+{
+  width: 10rem;
+  margin: 2rem;
+  padding: 0.5rem 0 0.5rem 0.5rem;
+}
+.watch
+{
+  margin: 2rem;
+  padding:  0.5rem 0.5rem 0.5rem 0;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
